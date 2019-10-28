@@ -2,8 +2,8 @@
 ## Здесь вы сможете найти все необходимые учебные материалы и домашние задания.
 
 *Контакты* 
-- *Линдеманн Никита: [Telegram](https://t.me/NikLinMIPT)* (https://t.me/NikLinMIPT), lindemann.na@phystech.edu
-- *Дочкина Виктория: [Telegram](https://t.me/victoria_mipt)* (https://t.me/victoria_mipt), dochkina.vs@phystech.edu
+- ***Линдеманн Никита**: [Telegram](https://t.me/NikLinMIPT)* (https://t.me/NikLinMIPT), lindemann.na@phystech.edu
+- ***Дочкина Виктория**: [Telegram](https://t.me/victoria_mipt)* (https://t.me/victoria_mipt), dochkina.vs@phystech.edu
 
 [Чат курса в telegram](https://t.me/joinchat/CkMkHRSFiHKFhgW8nT6LOg) (https://t.me/joinchat/CkMkHRSFiHKFhgW8nT6LOg)
 
