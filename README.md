@@ -32,7 +32,7 @@
 
 | Дата | Номер | Тема | Материалы | ДЗ |
 | :---: | :---: | --- | --- | --- |
-| 31 Октября | Семинар 1 | Основы классического ML | [Lecture_01](Lectures/Lecture_01) | [HW_01](HWs/HW_01.ipynb) | https://nbviewer.jupyter.org/github/ML-HSE/ML-course-2019/blob/master/Lectures/Lecture_01/Lecture_01.ipynb|
+| 31 Октября | Семинар 1 | Основы классического ML | [Lecture_01](Lectures/Lecture_01) | [HW_01](HWs/HW_01.ipynb) | [Jupyter](https://nbviewer.jupyter.org/github/ML-HSE/ML-course-2019/blob/master/Lectures/Lecture_01/Lecture_01.ipynb)|
 | 7 ноября | Семинар 2 | Введение в Deep Learning | [Lecture_02](Seminar2_Intro_to_ML/Seminar_2.ipynb) | [HW_02](HW2_Graph_and_grad/HW_2.ipynb) |
 | 14 ноября | Семинар 3 | Полносвязные нейронные сети | [Lecture_03](Seminar2_Intro_to_ML/Seminar_2.ipynb) | [HW_03](HW2_Graph_and_grad/HW_2.ipynb) |
 | 21 ноября | Семинар 4 | Сверточные нейронные сети | [Lecture_04](Seminar2_Intro_to_ML/Seminar_2.ipynb) | [HW_04](HW2_Graph_and_grad/HW_2.ipynb) |
