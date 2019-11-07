@@ -33,6 +33,6 @@
 | Дата | Номер | Тема | Материалы лекции | ДЗ | Deadline по ДЗ | Онлайн Jupyter Notebook с лекцией |
 | :---: | :---: | --- | --- | --- | --- | --- |
 | 31 Октября | Семинар 1 | Основы классического ML | [Lecture_01](Lectures/Lecture_01) | [HW_01](Homeworks/Homework_01/HW_01.ipynb) | 10.11.2019 23:55 | [Lecture_01](https://colab.research.google.com/drive/1lpt4_BiqdVuMu_762LKsVePoMCc_P-pc)|
-| 7 ноября | Семинар 2 | Введение в Deep Learning | [Lecture_02](Lectures/Lecture_01) | [HW_02](HW2_Graph_and_grad/HW_2.ipynb) | 14.11.2019 23:55 | [Lecture_02]()|
+| 7 ноября | Семинар 2 | Введение в Deep Learning | [Lecture_02](Lectures/Lecture_01) | [HW_02](HW2_Graph_and_grad/HW_2.ipynb) | 15.11.2019 23:55 | [Lecture_02]()|
 | 14 ноября | Семинар 3 | Полносвязные нейронные сети | [Lecture_03](Seminar2_Intro_to_ML/Seminar_2.ipynb) | [HW_03](HW2_Graph_and_grad/HW_2.ipynb) | 21.11.2019 23:55 | [Lecture_03]() |
 | 21 ноября | Семинар 4 | Сверточные нейронные сети | [Lecture_04](Seminar2_Intro_to_ML/Seminar_2.ipynb) | [HW_04](HW2_Graph_and_grad/HW_2.ipynb) | 28.11.2019 23:55 | [Lecture_04]()|
