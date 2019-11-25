@@ -7,7 +7,7 @@
 
 [Чат курса в telegram](https://t.me/joinchat/CkMkHRSFiHKFhgW8nT6LOg) (https://t.me/joinchat/CkMkHRSFiHKFhgW8nT6LOg)
 
-[Таблица с оценками](https://docs.google.com/spreadsheets/d/1m5Bq-pO62lYXKvxUTKVxaO6SPjZEhWqNKWmHC1o5PYo/edit?usp=sharing)
+[Таблица с оценками](https://docs.google.com/spreadsheets/d/1Q4-4ylfeCjmwrGk2rrbMYtTdyIG4xyKH6GG4ha0Iafc/edit?usp=sharing)
 
 
 ## Правила игры
