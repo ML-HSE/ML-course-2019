@@ -36,4 +36,4 @@
 | 7 ноября | Семинар 2 | Введение в Deep Learning | [Lecture_02](Lectures/Lecture_02) | [HW_02](Homeworks/Homework_02) | 16.11.2019 23:55 |
 | 14 ноября | Семинар 3 | Полносвязные нейронные сети | [Lecture_03](Lectures/Lecture_03) | [HW_03](Homeworks/Homework_03) | 24.11.2019 23:55 |
 | 21 ноября | Семинар 4 | Сверточные нейронные сети | [Lecture_04](Lectures/Lecture_04) | [HW_04](Homeworks/Homework_04) | 01.12.2019 23:55 |
-| 28 ноября | Семинар 5 | Введение в Natural Language Processing (NLP) | [Lecture_05](Lectures/Lecture_05) | [HW_05](Homeworks/Homework_05) | |
+| 28 ноября | Семинар 5 | Введение в Natural Language Processing (NLP) | [Lecture_05](Lectures/Lecture_05) | [HW_05](Homeworks/Homework_05) | 08.12.2019 23:55|
