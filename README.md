@@ -38,3 +38,4 @@
 | 21 ноября | Семинар 4 | Сверточные нейронные сети | [Lecture_04](Lectures/Lecture_04) | [HW_04](Homeworks/Homework_04) | 01.12.2019 23:55 |
 | 28 ноября | Семинар 5 | Введение в Natural Language Processing (NLP) | [Lecture_05](Lectures/Lecture_05) | [HW_05](Homeworks/Homework_05) | 08.12.2019 23:55|
 | 5 декабря | Семинар 6 | Word embeddings, Рекуррентные нейронные сети | [Lecture_06](Lectures/Lecture_06) | [HW_06](Lectures/Lecture_06/Part2_rnn_pytorch.ipynb) | 19.12.2019 23:55|
+| 12 декабря | Семинар 7 | Document embeddings, модели Sequence-to-sequence | [Lecture_07](Lectures/Lecture_07) | [HW_07](Homeworks/Homework_07) | |
